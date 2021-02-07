@@ -20,9 +20,6 @@ This is Ogulcan Orhan, 10+ years experienced mobile developer.
 <a href="https://superpeer.com/ogulcanor" target="_blank">
   <img align="left" alt="SuperPeer (bilingual)" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/zoom.svg" />
 </a>
-<a href="#" target="_blank">
-  <img align="left" alt="@ogulcanorhan" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/clubhouse.svg" />
-</a>
 <br />
 <br />
 ## 🧐  More about me:
