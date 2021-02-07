@@ -25,7 +25,7 @@ This is Ogulcan Orhan, 10+ years experienced mobile developer.
 </a>
 <br />
 <br />
-### 🧐  More about me:
+## 🧐  More about me:
 
 - 👉 I'm co-founder @[Zext](https://www.linkedin.com/company/zext/) 
 - 💻 I’m currently working on [Storyly SDK](https://github.com/Netvent/storyly-mobile)
@@ -36,7 +36,7 @@ This is Ogulcan Orhan, 10+ years experienced mobile developer.
 - 📺 Stream at [Twitch](https://twitch.tv/ogulcanorhan)
 
 
-### ⌨  Professionally:  
+## ⌨  Professionally:  
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/swift.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/kotlin.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/java.svg"></code>
@@ -47,7 +47,7 @@ This is Ogulcan Orhan, 10+ years experienced mobile developer.
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/wordpress.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>
 
-### 👶  Learning:
+## 👶  Learning:
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/flutter.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/node-dot-js.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vue-dot-js.svg"></code>
