@@ -2,7 +2,7 @@
 
 This is Ogulcan Orhan, 10+ years experienced mobile developer.
 <br /><br />
-<a href="https://linkedin.com/in/ogulcanorhan" target="_blank">
+<a href="https://linkedin.com/in/ogulcanor" target="_blank">
   <img align="left" alt="Linkedin" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" />
 </a>
 <a href="https://medium.com/@ogulcan" target="_blank">
@@ -11,7 +11,7 @@ This is Ogulcan Orhan, 10+ years experienced mobile developer.
 <a href="https://ogulcanorhan.com" target="_blank">
   <img align="left" alt="Medium" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/wordpress.svg" />
 </a>
-<a href="https://twitter.com/in/ogulcanor" target="_blank">
+<a href="https://twitter.com/ogulcanor" target="_blank">
   <img align="left" alt="Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/twitter.svg" />
 </a>
 <a href="https://twitch.com/ogulcanorhan" target="_blank">
