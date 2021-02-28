@@ -24,13 +24,13 @@ This is Ogulcan Orhan, 10+ years experienced mobile developer.
 <br />
 ## 🧐  More about me:
 
-- 👉  I'm co-founder @[Zext](https://www.linkedin.com/company/zext/),
-- 💻  I’m currently working on [Storyly SDK](https://github.com/Netvent/storyly-mobile),
-- 👨‍💻  I’m currently learning Flutter and [streaming it](https://twitch.tv/ogulcanorhan),
-- 🤔  I’m open for helping with about to grad/grad-students,
-- 💬  Feel free to ping me on [SuperPeer](https://superpeer.com/ogulcanor),
+- 👉  co-founder & head of engineer @[Zext](https://www.linkedin.com/company/zext/),
+- 💻  currently working on [Storyly SDK](https://github.com/Netvent/storyly-mobile),
+- 👨‍💻  Learning Flutter and [streaming it](https://twitch.tv/ogulcanorhan),
+- 💬  Open for helping with about to grad/grad-students, feel free to ping me on [SuperPeer](https://superpeer.com/ogulcanor),
 - 📫  Reach me on [Linkedin](https://linkedin.com/in/ogulcanorhan),
 - 📺  Streaming at [Twitch](https://twitch.tv/ogulcanorhan),
+- 📒  Blogging in [Turkish](https://ogulcanorhan.com) and in [English](https://medium.com/ogulcan)
 
 Nice to meet you!
 
@@ -49,5 +49,3 @@ Nice to meet you!
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/flutter.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/node-dot-js.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vue-dot-js.svg"></code>
-
-
