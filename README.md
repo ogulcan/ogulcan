@@ -24,8 +24,8 @@ This is Ogulcan Orhan, 10+ years experienced mobile developer.
 <br />
 ## 🧐  More about me:
 
-- 👉  co-founder & head of engineer @[Zext](https://www.linkedin.com/company/zext/),
-- 💻  currently working on [Storyly SDK](https://github.com/Netvent/storyly-mobile),
+- 👉  Co-founder & head of engineer @[Zext](https://www.linkedin.com/company/zext/),
+- 💻  Currently working on [Storyly SDK](https://github.com/Netvent/storyly-mobile),
 - 👨‍💻  Learning Flutter and [streaming it](https://twitch.tv/ogulcanorhan),
 - 💬  Open for helping with about to grad/grad-students, feel free to ping me on [SuperPeer](https://superpeer.com/ogulcanor),
 - 📫  Reach me on [Linkedin](https://linkedin.com/in/ogulcanorhan),
