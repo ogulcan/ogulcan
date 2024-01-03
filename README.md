@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is Ogulcan Orhan, 11+ years experienced android & iOS developer.
+This is Ogulcan Orhan, 12+ years experienced iOS & Android. Also have some knowledge of PHP, Vue.js and Node.js.
 <br /><br />
 <a href="https://linkedin.com/in/ogulcanor" target="_blank">
   <img align="left" alt="Linkedin" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" />
@@ -25,12 +25,12 @@ This is Ogulcan Orhan, 11+ years experienced android & iOS developer.
 ## 🧐  More about me:
 
 - 👉  Co-founder & head of engineer @[Zext](https://www.linkedin.com/company/zext/),
-- 💻  Currently working on [Papara]([https://github.com/Netvent/storyly-mobile](https://www.linkedin.com/company/papara/)),
-- 👨‍💻  Learning Flutter and [streaming it](https://twitch.tv/ogulcanorhan),
+- 💻  Currently working at [VLMedia](https://www.linkedin.com/company/vlmedia/),
+- 👨‍💻  <strike>Learning Flutter and [streaming it](https://twitch.tv/ogulcanorhan)</strike>,
+- 📒  Blogging in [Turkish](https://ogulcanorhan.com) and in [English](https://medium.com/ogulcan)
 - 💬  Open for helping with about to grad/grad-students, feel free to ping me on [SuperPeer](https://superpeer.com/ogulcanor),
 - 📫  Reach me on [Linkedin](https://linkedin.com/in/ogulcanorhan),
-- 📺  Streaming at [Twitch](https://twitch.tv/ogulcanorhan),
-- 📒  Blogging in [Turkish](https://ogulcanorhan.com) and in [English](https://medium.com/ogulcan)
+- 📺  <strike>Streaming at [Twitch](https://twitch.tv/ogulcanorhan)</strike>,
 
 Nice to meet you!
 
