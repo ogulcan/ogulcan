@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is Ogulcan Orhan, 12+ years experienced iOS & Android. Also have some knowledge of PHP, Vue.js and Node.js.
+This is Ogulcan Orhan, a software engineer with 15+ years of hands-on experience in designing, building, and scaling native mobile applications. Primarily for iOS and Android ecosystems. My core expertise lies in performance-critical, production-grade mobile architectures, but I also maintain working knowledge of backend (Node.js, PHP) and frontend (Vue.js) technologies to ensure seamless integration across platforms.
 <br /><br />
 <a href="https://linkedin.com/in/ogulcanor" target="_blank">
   <img align="left" alt="Linkedin" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" />
@@ -24,12 +24,12 @@ This is Ogulcan Orhan, 12+ years experienced iOS & Android. Also have some knowl
 <br />
 ## 🧐  More about me:
 
-- 👉  Co-founder & head of engineer @[Zext](https://www.linkedin.com/company/zext/),
-- 💻  Currently working at [VLMedia](https://www.linkedin.com/company/vlmedia/),
-- 👨‍💻  <strike>Learning Flutter and [streaming it](https://twitch.tv/ogulcanorhan)</strike>,
+- 👉  Co-founder & CTO @[Zext](https://www.linkedin.com/company/zext/),
 - 📒  Blogging in [Turkish](https://ogulcanorhan.com) and in [English](https://medium.com/ogulcan)
 - 💬  Open for helping with about to grad/grad-students, feel free to ping me on [SuperPeer](https://superpeer.com/ogulcanor),
 - 📫  Reach me on [Linkedin](https://linkedin.com/in/ogulcanorhan),
+- 👨‍💻  <strike>Learning Flutter and [streaming it](https://twitch.tv/ogulcanorhan)</strike>,
+- 💻  <strike>Currently working at [VLMedia](https://www.linkedin.com/company/vlmedia/)</strike>,
 - 📺  <strike>Streaming at [Twitch](https://twitch.tv/ogulcanorhan)</strike>,
 
 Nice to meet you!
@@ -46,6 +46,4 @@ Nice to meet you!
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>
 
 ## 👶  Learning:
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/flutter.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/node-dot-js.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vue-dot-js.svg"></code>
