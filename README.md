@@ -17,17 +17,17 @@ This is Ogulcan Orhan, a software engineer with 15+ years of hands-on experience
 <a href="https://twitch.com/ogulcanorhan" target="_blank">
   <img align="left" alt="Twitch" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/twitch.svg" />
 </a>
-<a href="https://superpeer.com/ogulcanor" target="_blank">
-  <img align="left" alt="SuperPeer (bilingual)" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/zoom.svg" />
-</a>
+
 <br />
 <br />
 ## 🧐  More about me:
 
 - 👉  Co-founder & CTO @[Zext](https://www.linkedin.com/company/zext/),
 - 📒  Blogging in [Turkish](https://ogulcanorhan.com) and in [English](https://medium.com/ogulcan)
-- 💬  Open for helping with about to grad/grad-students, feel free to ping me on [SuperPeer](https://superpeer.com/ogulcanor),
 - 📫  Reach me on [Linkedin](https://linkedin.com/in/ogulcanorhan),
+- 📹  Talking and wrigintg about Turkish politics at [YouTube](https://www.youtube.com/@1bellek) and [Izlek](https://izlek.org/author/ogulcan/)
+
+- 💬  <strike>Open for helping with about to grad/grad-students, feel free to ping me on [SuperPeer](https://superpeer.com/ogulcanor)</strike>
 - 👨‍💻  <strike>Learning Flutter and [streaming it](https://twitch.tv/ogulcanorhan)</strike>,
 - 💻  <strike>Currently working at [VLMedia](https://www.linkedin.com/company/vlmedia/)</strike>,
 - 📺  <strike>Streaming at [Twitch](https://twitch.tv/ogulcanorhan)</strike>,
