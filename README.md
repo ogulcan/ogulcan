@@ -20,6 +20,7 @@ This is Ogulcan Orhan, a software engineer with 15+ years of hands-on experience
 
 <br />
 <br />
+
 ## 🧐  More about me:
 
 - 👉  Co-founder & CTO @[Zext](https://www.linkedin.com/company/zext/),
