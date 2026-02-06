@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is Ogulcan Orhan, a software engineer with 15+ years of hands-on experience in designing, building, and scaling native mobile applications. Primarily for iOS and Android ecosystems. My core expertise lies in performance-critical, production-grade mobile architectures, but I also maintain working knowledge of backend (Node.js, PHP) and frontend (Vue.js) technologies to ensure seamless integration across platforms.
+This is Ogulcan. A mobile architect with 15+ years of experience specializing in high-performance native ecosystems. My core is iOS and Android, but I’m equally comfortable navigating Node.js, PHP, and Vue.js to ensure the whole stack plays nice. I focus on building lean, fast, and production-grade mobile infrastructures that don't break under pressure.
 <br /><br />
 <a href="https://linkedin.com/in/ogulcanor" target="_blank">
   <img align="left" alt="Linkedin" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" />
