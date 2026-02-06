@@ -26,25 +26,17 @@ This is Ogulcan Orhan, a software engineer with 15+ years of hands-on experience
 - 👉  Co-founder & CTO @[Zext](https://www.linkedin.com/company/zext/),
 - 📒  Blogging in [Turkish](https://ogulcanorhan.com) and in [English](https://medium.com/ogulcan)
 - 📫  Reach me on [Linkedin](https://linkedin.com/in/ogulcanorhan),
-- 📹  Talking and wrigintg about Turkish politics at [YouTube](https://www.youtube.com/@1bellek) and [Izlek](https://izlek.org/author/ogulcan/)
+- 📹  Talking and writing about Turkish politics at [YouTube](https://www.youtube.com/@1bellek) / [Izlek](https://izlek.org/author/ogulcan/)
 
-- 💬  <strike>Open for helping with about to grad/grad-students, feel free to ping me on [SuperPeer](https://superpeer.com/ogulcanor)</strike>
-- 👨‍💻  <strike>Learning Flutter and [streaming it](https://twitch.tv/ogulcanorhan)</strike>,
-- 💻  <strike>Currently working at [VLMedia](https://www.linkedin.com/company/vlmedia/)</strike>,
-- 📺  <strike>Streaming at [Twitch](https://twitch.tv/ogulcanorhan)</strike>,
-
-Nice to meet you!
+Nice to meet you ../
 
 ## ⌨  Professionally:  
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/swift.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/kotlin.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/java.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/objectivec.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/javascript.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/php.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/wordpress.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/postgresql"></code>
 
 ## 👶  Learning:
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vue-dot-js.svg"></code>
